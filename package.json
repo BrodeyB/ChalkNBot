@@ -1,0 +1,15 @@
+{
+  "name": "chalknbot",
+  "version": "1.0.0",
+  "description": "NPM project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bb",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  }
+}
